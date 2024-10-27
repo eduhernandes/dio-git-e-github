@@ -17,3 +17,5 @@ Repositório para armazenar resumos sobre Git e Github do curso de Versionamento
 | Repositórios - Parte 2	|  <ul><li>Desfazendo alterações no repositório local</li><li>Enviando e baixando alterações com o repositório remoto</li>	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](https://github.com/eduhernandes/dio-resumos-git-e-github/blob/main/resumos/3-repositorios-parte2.md) |
 | Branches	|  <ul><li>O que é uma branch e para quê serve</li><li>Trabalhando com branches</li><li>Conflitos ao trabalhar com branches</li>	|[![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](https://github.com/eduhernandes/dio-resumos-git-e-github/blob/main/resumos/4-branches.md) |
 
+## Licença
+Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
