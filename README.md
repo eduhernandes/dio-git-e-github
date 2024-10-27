@@ -1,4 +1,4 @@
-<img align="right" src="https://hermes.dio.me/assets/dio-black.svg" alt="DIO" width="60" height="60"> <img align="right" src="https://hermes.dio.me/companies/4724e683-192a-405e-9fcc-bae6781ab706.png" alt="RI Happy Bootcamp" width="60" height="60"> 
+<img align="right" src="https://hermes.dio.me/companies/4724e683-192a-405e-9fcc-bae6781ab706.png" alt="RI Happy Bootcamp" width="60" height="60"> <img align="right" src="https://hermes.dio.me/assets/dio-black.svg" alt="DIO" width="60" height="60"> 
 # DIO | Resumos Git e Github
 
 Repositório para armazenar resumos sobre Git e Github do curso de Versionamento de Código com Git e Github da [Digital Inovation One](https://web.dio.me/)
