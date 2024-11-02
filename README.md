@@ -18,4 +18,4 @@ Repositório para armazenar resumos sobre Git e Github do curso de Versionamento
 | Branches	|  <ul><li>O que é uma branch e para quê serve</li><li>Trabalhando com branches</li><li>Conflitos ao trabalhar com branches</li>	|[![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](https://github.com/eduhernandes/dio-git-e-github/blob/main/resumos/4-branches.md) |
 
 ## Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
