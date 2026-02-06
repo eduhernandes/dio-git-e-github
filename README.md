@@ -36,5 +36,6 @@ Para consultar os comandos e resumos localmente ou praticar os conceitos apresen
 
 ## Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
+
 *Desenvolvido por Eduardo Hernandes*
 
