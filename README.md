@@ -31,7 +31,7 @@ Para aprender a manter seu fluxo de trabalho organizado, mensagens de commit pad
 - [Documentação Oficial Git](https://git-scm.com/doc)
 - [Documentação Oficial Github](https://docs.github.com/)
 
-
+---
 
 ## 💻 Resumo das aulas
 | Conteúdo    | Descrição do Conteúdo     | Link |
@@ -41,7 +41,12 @@ Para aprender a manter seu fluxo de trabalho organizado, mensagens de commit pad
 | Repositórios - Parte 2	|  Como desfazer alterações (reset, restore) e sincronismo remoto (push, pull).	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](resumos/3-repositorios-parte2.md) |
 | Branches	|  Criação de ramificações, merges, gestão de conflitos e uso do stash.	|[![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](resumos/4-branches.md) |
 
+---
+
 ## Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
+
+---
+
 *Desenvolvido por Eduardo Hernandes*
 
