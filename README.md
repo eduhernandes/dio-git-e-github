@@ -19,6 +19,13 @@ Para consultar os comandos e resumos localmente ou praticar os conceitos apresen
     ```
 3. **Explore os arquivos: Os arquivos de resumo estão na raiz e na pasta de resumos para facilitar a leitura via terminal ou editor de texto.**
 
+---
+
+## 🌟 Guia de Boas Práticas
+
+Para aprender a manter seu fluxo de trabalho organizado, mensagens de commit padronizadas e evitar erros comuns, acesse o nosso guia completo: 👉 [Acessar Guia de Boas Práticas](resumos/5-boas-praticas.md)
+
+---
 
 ## 📚 Documentação de Apoio
 - [Documentação Oficial Git](https://git-scm.com/doc)
@@ -29,10 +36,10 @@ Para consultar os comandos e resumos localmente ou praticar os conceitos apresen
 ## 💻 Resumo das aulas
 | Conteúdo    | Descrição do Conteúdo     | Link |
 | --------------|-----|-----|
-| Versionamento, Git e GitHub 	|  Conceitos de VCS, funcionamento do Git e da plataforma GitHub. 	| [![Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](https://github.com/eduhernandes/dio-git-e-github/blob/main/resumos/1-versionamento-git-e-github.md) |
-| Repositórios - Parte 1	|  Inicialização, conexão remota e fluxo de salvamento local (add, commit).	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](https://github.com/eduhernandes/dio-git-e-github/blob/main/resumos/2-repositorios-parte1.md)|
-| Repositórios - Parte 2	|  Como desfazer alterações (reset, restore) e sincronismo remoto (push, pull).	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](https://github.com/eduhernandes/dio-git-e-github/blob/main/resumos/3-repositorios-parte2.md) |
-| Branches	|  Criação de ramificações, merges, gestão de conflitos e uso do stash.	|[![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](https://github.com/eduhernandes/dio-git-e-github/blob/main/resumos/4-branches.md) |
+| Versionamento, Git e GitHub 	|  Conceitos de VCS, funcionamento do Git e da plataforma GitHub. 	| [![Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](resumos/1-versionamento-git-e-github.md) |
+| Repositórios - Parte 1	|  Inicialização, conexão remota e fluxo de salvamento local (add, commit).	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](resumos/2-repositorios-parte1.md)|
+| Repositórios - Parte 2	|  Como desfazer alterações (reset, restore) e sincronismo remoto (push, pull).	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](resumos/3-repositorios-parte2.md) |
+| Branches	|  Criação de ramificações, merges, gestão de conflitos e uso do stash.	|[![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue)](resumos/4-branches.md) |
 
 ## Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
